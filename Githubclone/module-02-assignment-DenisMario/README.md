@@ -4,3 +4,6 @@
 ## Full Stack Web Application Development Program
 
 Add your README content here.
+
+#About me 
+-My name is Denis Andonov. I am a student in UofA wanting to become a full stack web developer. I started off with taking introcutory courses to python and then got introduced to HTML which has now led me into taking prequistite courses in order to enroll into the fullstack web developer diploma.
